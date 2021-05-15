@@ -1,2 +1,2 @@
 # VoronMods
-Where you can deliverables for mods that I have done for Voron printers.
+Where you can find deliverables for mods that I have done for Voron printers.
